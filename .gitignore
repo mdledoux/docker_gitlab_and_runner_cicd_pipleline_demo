@@ -1,0 +1,4 @@
+*.swp
+volumes*/
+gitlab-runner/
+
